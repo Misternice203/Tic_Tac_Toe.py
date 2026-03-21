@@ -22,7 +22,7 @@ A command line tic-tac-toe game built in python as part of my backend developmen
 * VS Code
 
 ## Current structure
-Main.py
+Main.py: 
 This project is currently implemented in a single file while core logic is being built and tested.
 Once i have worked out bugs i will be seperating the classes and methods into their own files.
 
