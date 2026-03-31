@@ -1,0 +1,9 @@
+## Version 1.0
+* Basic CLI TIC TAC TOE game using Classes, program runs in one file While I debug and fix current issues.
+
+## Version 1.1
+* Updated the program to show state of the board for every turn the player takes. 
+* Added quality of life features such as replay method that calls once the initial game has decided on winner or draw.
+
+## Version 1.2
+* Refactored existing classes and relative methods into seperate files for easier code readability.
