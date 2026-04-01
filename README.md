@@ -1,5 +1,5 @@
 ### Tic_Tac_Toe.py
-Simple Tic-Tac_Toe Game using Command Line Interface
+Simple Tic-Tac_Toe Game using Command Line Interface and Object Oriented Programming (OOP)
 
 ## Overview
 A command line tic-tac-toe game built in python as part of my backend development journey. While working on this project i was able to use Object Oriented Programming (OOP) principles. It consists of three main classes: Board (handles game state), Player (stores the players information (e.g. players name, players mark)) and Game (controls the games flow). This has made the code modular and reusable.  
